@@ -12,3 +12,13 @@ img,
 video {
   display: block;
 }
+
+img {
+  height: 500px;
+}
+
+body {
+  background-color: rgb(255, 200, 0);
+  color: rgb(95, 54, 4);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
